@@ -18,15 +18,15 @@ method ---> nextDate(int,string,int)
 
                         Boundary Test
 
- 5 mayo 2020    >    4 mayo 2020   || 5 mayo 2020     || 6 mayo 2020     || 6 mayo 2020 abc
-                     4 junio 2020  || 5 junio 2020    || 6 junio 2020    || 6 junio 2020 abc
-                     4 mayo 2021   || 5 mayo 2021     || 6 mayo 2021     || 6 mayo 2021 abc
+ 5 mayo 2020    >    4 mayo 2020   || 5 mayo 2020     || 6 mayo 2020     
+                     4 junio 2020  || 5 junio 2020    || 6 junio 2020    
+                     4 mayo 2021   || 5 mayo 2021     || 6 mayo 2021    
 
- 28 febrero 2020 > 27 febrero 2020 || 28 febrero 2020 || 29 febrero 2020 || 29 febrero 2020 abc
-                   27 enero 2020   || 28 enero 2020   || 29 enero 2020   || 29 enero 2020 abc
-                   27 febrero 2021 || 28 febrero 2021 || 29 febrero 2021 || 29 febrero 2021 abc
+ 28 febrero 2020 > 27 febrero 2020 || 28 febrero 2020 || 29 febrero 2020 
+                   27 enero 2020   || 28 enero 2020   || 29 enero 2020   
+                   27 febrero 2021 || 28 febrero 2021 || 29 febrero 2021 
 
- 28 febrero 2021 > 27 febrero 2021 || 28 febrero 2021 || 29 febrero 2021 || 29 febrero 2021 abc
-                   27 enero 2021   || 28 enero 2021   || 29 enero 2021   || 29 enero 2021 abc
-                   27 febrero 2022 || 28 febrero 2022 || 29 febrero 2022 || 29 febrero 2022 abc
+ 28 febrero 2021 > 27 febrero 2021 || 28 febrero 2021 || 1 marzo 2021   
+                   27 enero 2021   || 28 enero 2021   || 1 enero 2021   
+                   27 febrero 2022 || 28 febrero 2022 || 1 marzo 2022 
 
