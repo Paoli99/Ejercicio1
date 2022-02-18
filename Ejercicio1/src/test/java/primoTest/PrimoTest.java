@@ -26,7 +26,7 @@ public class PrimoTest {
     public void testPrimo(){
         Primos primos = new Primos();
 
-        boolean expectedResults = false;
+        boolean expectedResults = true;
         boolean actualResults = Primos.esPrimo(11);
         Assertions.assertEquals(expectedResults, actualResults, "error");
     } */
