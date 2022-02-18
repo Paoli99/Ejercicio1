@@ -19,11 +19,10 @@ public class Primos {
     } */
 
     public static boolean esPrimo(int numero){
-        for (int i = 2; i < numero; i++)
+        for (int i = 2; i <= numero; i++)
             if (numero % i == 0){
-                return false;
+                return false; // no es primo
             }
-
-        return true;
+        return true; // es primo
     }
 }
