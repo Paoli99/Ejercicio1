@@ -11,21 +11,22 @@ public class Generador {
         String msg = " ";
 
         if(Primos.esPrimo(num)){
-            for(int i =1; i <= num; i++){
+            for(int i =1; i < num; i++){
                 if(i%2 == 0){
                     msg = i + " ";
                 }
+                break;
             }
         }
 
         else{
-            for(int i =1; i <= num; i++){
-                if(i%2 != 0){
+            for(int i =1; i < num; i++) {
+                if (i % 2 != 0) {
                     msg = i + " ";
                 }
+                break;
             }
         }
-
         return msg;
     }
 }
